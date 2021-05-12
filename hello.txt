@@ -1,5 +1,5 @@
 hello git! --modify first
-hello git!
+hello git! --modified secend
 hello git!
 hello git!
 hello git!
