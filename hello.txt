@@ -1,4 +1,4 @@
-hello git! --modify first
+hello git! --modify first  hot-fix
 hello git! --modified secend
 hello git!
 hello git!
