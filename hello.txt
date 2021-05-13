@@ -2,4 +2,4 @@ hello git! --modify first  hot-fix
 hello git! --modified secend
 hello git!
 hello git!
-hello git!
+hello git!  location at branch master 
