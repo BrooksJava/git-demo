@@ -4,3 +4,4 @@ hello git!
 hello git!  location at branch master 
 hello git! location at hot-fix
 hello  ll
+add one line by BrooksGit
